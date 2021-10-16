@@ -1,0 +1,14 @@
+    a    b   <-- classified as
+ 3405    0 |    a = 0
+   61    0 |    b = 1
+
+   a    b   <-- classified as
+ 3403    2 |    a = 0
+   61    0 |    b = 1
+
+    a    b   <-- classified as
+ 3405    0 |    a = 0
+   61    0 |    b = 1
+
+Correctly Classified Instances        3405               98.24   %
+Incorrectly Classified Instances        61                1.76   %

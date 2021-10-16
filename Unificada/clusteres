@@ -1,0 +1,46 @@
+K = 4 | SSE = 176 
+Cluster 0 Size 3424
+Cluster 1 Size 6
+Cluster 2 Size 6
+Cluster 3 Size 30
+
+----
+
+K = 5 | SSE = 126 
+Cluster 0 Size 3413
+Cluster 1 Size 5
+Cluster 2 Size 26
+Cluster 3 Size 16
+Cluster 4 Size 6
+
+----
+
+K = 6 | SSE = 104 
+Cluster 0 Size 3410
+Cluster 1 Size 3
+Cluster 2 Size 6
+Cluster 3 Size 26
+Cluster 4 Size 3
+Cluster 5 Size 18
+
+- 
+K = 7 | SSE = 82 
+Cluster 0 Size 3397
+Cluster 1 Size 3
+Cluster 2 Size 6
+Cluster 3 Size 30
+Cluster 4 Size 18
+Cluster 5 Size 3
+Cluster 6 Size 9
+
+-------
+
+K = 8 | SSE = 63 
+Cluster 0 Size 3404
+Cluster 1 Size 7
+Cluster 2 Size 1
+Cluster 3 Size 3
+Cluster 4 Size 26
+Cluster 5 Size 18
+Cluster 6 Size 3
+Cluster 7 Size 4

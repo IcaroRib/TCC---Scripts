@@ -1,0 +1,139 @@
+@relation fornecedores_dataset_61 
+ 
+@attribute '00821449000110' { n, y } 
+@attribute '01502402000157' { n, y } 
+@attribute '01790630000170' { n, y } 
+@attribute '02330783000105' { n, y } 
+@attribute '02527531000162' { n, y } 
+@attribute '03013776000134' { n, y } 
+@attribute '03086586000147' { n, y } 
+@attribute '03336929000184' { n, y } 
+@attribute '03361154000105' { n, y } 
+@attribute '03998680000172' { n, y } 
+@attribute '04209183000100' { n, y } 
+@attribute '04618968000137' { n, y } 
+@attribute '04688196000100' { n, y } 
+@attribute '04891279000100' { n, y } 
+@attribute '05508180000130' { n, y } 
+@attribute '05731571000110' { n, y } 
+@attribute '07322518000190' { n, y } 
+@attribute '07548130000102' { n, y } 
+@attribute '07928882000107' { n, y } 
+@attribute '08077535000172' { n, y } 
+@attribute '08080397000180' { n, y } 
+@attribute '08704443000175' { n, y } 
+@attribute '09304606000195' { n, y } 
+@attribute '09379391000171' { n, y } 
+@attribute '10602336000188' { n, y } 
+@attribute '10951333000150' { n, y } 
+@attribute '10988098000190' { n, y } 
+@attribute '11014352000112' { n, y } 
+@attribute '12587605000100' { n, y } 
+@attribute '12605160000143' { n, y } 
+@attribute '12610622000110' { n, y } 
+@attribute '12658085000189' { n, y } 
+@attribute '13152629000107' { n, y } 
+@attribute '13440933000141' { n, y } 
+@attribute '13990321000122' { n, y } 
+@attribute '14031903000144' { n, y } 
+@attribute '14173768000171' { n, y } 
+@attribute '14658681000194' { n, y } 
+@attribute '16837482000179' { n, y } 
+@attribute '16941283000106' { n, y } 
+@attribute '16994670000100' { n, y } 
+@attribute '17493314000176' { n, y } 
+@attribute '17621505000176' { n, y } 
+@attribute '18309624000150' { n, y } 
+@attribute '18898774000147' { n, y } 
+@attribute '19481182000198' { n, y } 
+@attribute '19531807000189' { n, y } 
+@attribute '19533284000100' { n, y } 
+@attribute '19651109000117' { n, y } 
+@attribute '19720936000115' { n, y } 
+@attribute '20118252000127' { n, y } 
+@attribute '20918417000145' { n, y } 
+@attribute '21090705000117' { n, y } 
+@attribute '21647408000120' { n, y } 
+@attribute '21873440000123' { n, y } 
+@attribute '23109869000174' { n, y } 
+@attribute '24031691000159' { n, y } 
+@attribute '24654099000103' { n, y } 
+@attribute '26696851000104' { n, y } 
+@attribute '27062419000124' { n, y } 
+@attribute '27504842000137' { n, y } 
+@attribute vencedor { '00821449000110' , '01502402000157', '01790630000170', '02330783000105', '02527531000162', '03013776000134', '03086586000147', '03336929000184', '03361154000105', '03998680000172', '04209183000100', '04618968000137', '04688196000100', '04891279000100', '05508180000130', '05731571000110', '07322518000190', '07548130000102', '07928882000107', '08077535000172', '08080397000180', '08704443000175', '09304606000195', '09379391000171', '10602336000188', '10951333000150', '10988098000190', '11014352000112', '12587605000100', '12605160000143', '12610622000110', '12658085000189', '13152629000107', '13440933000141', '13990321000122', '14031903000144', '14173768000171', '14658681000194', '16837482000179', '16941283000106', '16994670000100', '17493314000176', '17621505000176', '18309624000150', '18898774000147', '19481182000198', '19531807000189', '19533284000100', '19651109000117', '19720936000115', '20118252000127', '20918417000145', '21090705000117', '21647408000120', '21873440000123', '23109869000174', '24031691000159', '24654099000103', '26696851000104', '27062419000124', '27504842000137' }
+
+
+@data 
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,'27504842000137'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,'16941283000106'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,'27062419000124'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'10988098000190'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'10602336000188'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'19651109000117'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'19651109000117'
+n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'20918417000145'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,'16941283000106'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'16837482000179'
+n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'14173768000171'
+n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'10951333000150'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'21873440000123'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13440933000141'
+n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'12587605000100'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18309624000150'
+y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18309624000150'
+n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'21090705000117'
+n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'21090705000117'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13990321000122'
+n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'20918417000145'
+n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'20918417000145'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,'16941283000106'
+n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'12610622000110'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'12587605000100'
+n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'12587605000100'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'14658681000194'
+n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'12587605000100'
+n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'14173768000171'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'10988098000190'
+n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'24031691000159'
+n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'18898774000147'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,'16941283000106'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'26696851000104'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13990321000122'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'26696851000104'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'26696851000104'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13990321000122'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13990321000122'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'26696851000104'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,'16941283000106'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,'16941283000106'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,'27504842000137'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,'12658085000189'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,'12658085000189'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,'12658085000189'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'10602336000188'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13440933000141'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13440933000141'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13990321000122'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'10602336000188'
+n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,'13152629000107'
