@@ -1,0 +1,49 @@
+Para descobrir cartéis:
+
+1. Quanto a Paraíba, Goiás e Espírito Santo
+
+- Organizar um dataset de forma a associar todas as licitações x todos os fornecedores
+- Organizar todos os TIPOS de licitação + TIPO de Objeto x todos os fornecedores
+- Organizar todos os INTERVALOS DE VALORES de licitacao x todos os fonecedores
+- Organizar todas as UNIDADES GESTORAS de licitacao x todos os fornecedores
+
+
+Para descobrir outras perguntas (consigo com todas as bases):
+
+- Encontrar clusteres de grupos de fornecedores que vencem licitações por modalidade, por unidade gestora, etc baseados em métricas do fornecedor (CBO, capital social, etc)
+
+
+----------------
+
+
+
+Atributos 
+
+1) Paraíba
+
+Unidade Gestora
+Modalidade da Licitação
+Tipo de Objeto
+Faixa de Valor Licitação
+
+2) Amazonas
+
+Unidade Gestora
+
+3) Espírito Santo
+
+Modalidade
+Unidade Gestora
+Faixa de Valor da Licitação
+
+4) Goiás
+
+Modalidade
+Faixa de Valor da Licitação
+Unidade Gestora
+
+5) Minas
+
+Unidade Gestora
+Modalidade
+Faixa de Valor Licitação

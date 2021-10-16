@@ -1,0 +1,45 @@
+Insercao Falha: 23647365001007
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('48492582.0','2018-07-17T17:35:16.860Z','23647365001007','Fabricação de outros produtos químicos inorgânicos não especificados anteriormente','20.19-3-99','14/04/2015','FILIAL','OK','ATIVA','PIRAPAMA','ROD PE-37','1109','54.505-005','CABO DE SANTO AGOSTINHO','14/04/2015','206-2 - Sociedade Empresária Limitada')
+
+Insercao Falha: 23659579000102
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('100000.0','2018-06-11T22:10:53.189Z','23659579000102','Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente','47.29-6-99','13/11/2015','MATRIZ','OK','ATIVA','JOSE PINHEIRO','R FERNANDES VIEIRA','948','58.407-490','CAMPINA GRANDE','13/11/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23666278000106
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('5000.0','2018-06-23T08:22:27.248Z','23666278000106','********','00.00-0-00','26/12/2016','MATRIZ','OK','BAIXADA','','','','','','14/11/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23684213000185
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('300000.0','2018-06-11T15:42:17.413Z','23684213000185','Construção de edifícios','41.20-4-00','17/11/2015','MATRIZ','OK','ATIVA','TORRE','AV NOSSA SENHORA DE FATIMA','1843','58.040-380','JOAO PESSOA','17/11/2015','230-5 - Empresa Individual de Responsabilidade Limitada (de Natureza Empresária)')
+
+Insercao Falha: 23689143000158
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('120000.0','2018-06-23T03:29:24.344Z','23689143000158','Comércio a varejo de peças e acessórios novos para veículos automotores','45.30-7-03','18/11/2015','MATRIZ','OK','ATIVA','CENTRO','R PAULO MENDES','67','58.700-240','PATOS','18/11/2015','230-5 - Empresa Individual de Responsabilidade Limitada (de Natureza Empresária)')
+
+Insercao Falha: 23706033000157
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('300000.0','2018-07-01T13:46:44.856Z','23706033000157','Comércio atacadista de medicamentos e drogas de uso humano','46.44-3-01','20/11/2015','MATRIZ','OK','ATIVA','MANOELA VALADARES','R ERNESTO MARIANO DE LIMA','231','56.800-000','AFOGADOS DA INGAZEIRA','20/11/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23706512000173
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('800000.0','2018-06-11T18:22:46.464Z','23706512000173','Comércio a varejo de peças e acessórios novos para veículos automotores','45.30-7-03','20/11/2015','MATRIZ','OK','ATIVA','CENTRO','R CAP. ALBINO DE SOUZA','199','58.500-000','MONTEIRO','20/11/2015','230-5 - Empresa Individual de Responsabilidade Limitada (de Natureza Empresária)')
+
+Insercao Falha: 23708210000134
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('1000.0','2018-06-07T11:34:54.766Z','23708210000134','Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente','82.19-9-99','20/11/2015','MATRIZ','OK','ATIVA','MARIA RACHEL','R JOSE ANTONIO DE FIGUEIREDO','171','58.804-658','SOUSA','20/11/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23713948000190
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('5000.0','2018-06-04T08:29:56.838Z','23713948000190','Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário','13.40-5-01','23/11/2015','MATRIZ','OK','ATIVA','CENTRO','R ALMEIDA BARRETO','40','58.200-000','GUARABIRA','23/11/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23723502000146
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('100000.0','2018-06-11T22:17:00.953Z','23723502000146','Comércio varejista de móveis','47.54-7-01','24/11/2015','MATRIZ','OK','ATIVA','CATOLE','R CUREMAS II','32','58.410-328','CAMPINA GRANDE','24/11/2015','230-5 - Empresa Individual de Responsabilidade Limitada (de Natureza Empresária)')
+
+Insercao Falha: 23731522000169
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('80000.0','2018-06-04T22:38:22.001Z','23731522000169','Serviços de reboque de veículos','52.29-0-02','25/11/2015','MATRIZ','OK','ATIVA','Centro','AV Comendador Renato Ribeiro Coutinho','1582','58.340-000','SAPE','25/11/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23760592000145
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('50000.0','2018-06-06T09:57:22.622Z','23760592000145','Comércio varejista de artigos de papelaria','47.61-0-03','30/11/2015','MATRIZ','OK','ATIVA','CENTRO','R LAURENIO FIRMEZA','119','58.910-000','SAO JOAO DO RIO DO PEIXE','30/11/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23769499000100
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('30000.0','2018-06-12T02:49:02.422Z','23769499000100','Serviços de funerárias','96.03-3-04','01/12/2015','MATRIZ','OK','ATIVA','CENTRO','AV GETULIO VARGAS','159','58.780-000','ITAPORANGA','01/12/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23804320000108
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('30000.0','2018-06-04T21:58:20.383Z','23804320000108','Comércio varejista de outros produtos não especificados anteriormente','47.89-0-99','07/12/2015','MATRIZ','OK','ATIVA','CENTRO','R PROFESSORA JUDITE GAUDENCIO','20','58.580-000','SERRA BRANCA','07/12/2015','213-5 - Empresário (Individual)')
+
+Insercao Falha: 23820308000189
+INSERT INTO fornecedores (capital_social,ultima_atualizacao,cnpj,atividade_principal_text,atividade_principal_code,data_situacao, tipo, status,situacao,bairro,logradouro,numero,cep,municipio,abertura,natureza_juridica) VALUES ('20000.0','2018-07-11T06:29:51.123Z','23820308000189','Confecção, sob medida, de peças do vestuário, exceto roupas íntimas','14.12-6-02','10/12/2015','MATRIZ','OK','ATIVA','LIBERDADE','R DOUTOR PEDRO FIRMINO','840','58.703-048','PATOS','10/12/2015','213-5 - Empresário (Individual)')
+
